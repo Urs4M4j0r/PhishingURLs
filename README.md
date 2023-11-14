@@ -7,4 +7,4 @@ There are 2 .7z files in the repository, detailed below.
 Archive Name | Filename | Good Count | Bad Count | Total Count
 ---|---|---|---|---
 phishingURLs.7z | phishingURLs.csv | 610,618 | 563,338 | 1,173,956
-PhishingURLs-Balanced.tz | PhishingURLs-Balanced.csv | 563,338 | 563,338 | 1,126,676
+PhishingURLs-Balanced.7z | PhishingURLs-Balanced.csv | 563,338 | 563,338 | 1,126,676
